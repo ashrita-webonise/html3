@@ -1,0 +1,199 @@
+body {
+    background-color: #fcfcfc;
+}
+p {
+    margin-bottom: 0;
+}
+.navbar.navbar-default.navbar-static-top{
+    margin: 0;
+}
+
+.sectionOne .btn.btn-default {
+    padding-top: 19px;
+    padding-bottom: 18px;
+}
+.sectionOne ul li.clear {
+    float: none;
+    clear: both;
+}
+.sectionOne ul {
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.sectionOne ul li {
+    float: left;
+    list-style-type: none;
+}
+
+
+.logo {
+    padding:9px 10px; 
+    display: inline-block;
+    border-right: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+}
+.logo a{
+    display: inline-block;
+}
+.mainCustomer{
+    margin: 12px; 6px;
+}
+.mainCustomer .btn.btn-default{
+    border-radius: 25px;
+    background-color: #1166ee;
+    color: white;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.sectionTwo ul {
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.sectionTwo ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+.sectionTwo ul li.clear {
+    float: none;
+    clear: both;
+}
+
+.sectionTwo .notify {
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+.sectionTwo .kart {
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+.sectionTwo .user {
+    margin-top:9px;
+    margin-bottom: 8px;
+}
+
+
+     
+.userInfo {
+    padding-top: 10px;
+    padding-bottom: 6px;
+}
+
+.userInfo h5{
+    text-align: center;
+    margin-bottom:3px;;
+    margin-top:0;
+    color: #222;
+    
+    font-size: 14px;
+}
+.userInfo p{
+    text-align: center;
+    margin-bottom:0;
+    color: #666;
+}
+.btn.btn-default.btn-transparent{
+    border:1px solid blue;
+    color: blue;
+    margin-left: 20px;
+    
+}
+.addCustomer {
+    margin-top: 20px ;
+    margin-bottom: 20px;
+}
+.addCustomer span {
+    font-size: 18px;
+    color:#333;
+}
+.siteOne {
+    border-bottom: 1px solid grey;
+    margin:0;
+}
+.siteOne img {
+    margin:16px 0 15px 78px;
+}
+
+.siteOneName {    
+    padding:11px 30px 10px 30px;
+}
+.siteOneName h4{
+    font-size: 18px;
+    color: #3333;
+}
+.siteOneNAme h4 img {
+    float: right;
+}
+
+.update {
+    font-size: 14px;
+    color: #aaaaaa;
+}
+.tickets{
+    color:#1166ee;
+}
+.commonName{
+    font-size: 16px;
+}
+.ticketsValue{
+    font-size: 48px;
+}
+.severityOne{
+    color: #ff0000;
+}
+.severityName {
+    font-size: 14px;
+}
+.severityValue {
+    font-size: 24px;
+}
+
+.severityTwoValue {
+    color: #1166ee;
+    font-size: 24px;
+}
+.assetsValue {
+    font-size: 30px;
+    color: #1166ee;
+}
+.alertsValue {
+    color:#1166ee;
+    font-size: 30px;
+}
+.view {
+    font-size: 14px;
+    text-decoration: underline;
+}
+.thumbnail {
+    padding: 0;
+}
+.siteOneDetails {
+    margin: 10px 25px 10px 25px;
+}
+.footerWrap{
+    border-top: 1px solid #666;
+    padding-top: 10px;
+    text-align: center;
+}
+.footer ul{
+    padding-left: 0;
+    margin: 0;
+    text-align: center;
+}
+.footer ul li {
+    list-style-type: none;
+    padding: 0 10px 0 10px;
+    border-left: 1px solid #666;
+    display:inline-block;
+}
+.footer ul li:first-child{
+    border-left: none;
+}
+.footer ul li.clear{
+     float: none;
+    clear: both;
+}
+.footer ul li a{
+    color: #666;
+}
